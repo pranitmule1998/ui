@@ -1,7 +1,7 @@
 const A =() =>{
     return(
         <>
-        <h1>A dd pranit</h1>
+        <h1>A dd pranit mule</h1>
         </>
     )
 }
